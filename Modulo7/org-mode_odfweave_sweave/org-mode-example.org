@@ -1,0 +1,116 @@
+#+TITLE:     Semana Acadêmica de Estatística 2016
+#+AUTHOR:    PET Estatística UFPR
+#+DATE:
+#+LANGUAGE:  pt
+
+#+BEAMER_HEADER: \institute{\texttt{pet.estatistica.ufpr@gmail.com}}
+
+#+STARTUP: beamer
+#+STARTUP: oddeven
+
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [aspectratio=169, unknownkeysallowed, professionalfonts]
+
+# #+LaTeX_CLASS_OPTIONS: [aspectratio=169]
+
+#+BEAMER_THEME: default
+#+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
+#+OPTIONS: H:1 toc:nil
+
+# PREAMBULO ------------------------------------------------------------
+#+LaTeX_HEADER: \usepackage[brazil]{babel}
+#+LaTeX_HEADER: \usepackage[T1]{fontenc}
+#+LaTeX_HEADER: \usepackage[utf8]{inputenc}
+#+LaTeX_HEADER: \usepackage{mathpazo}
+#+LaTeX_HEADER: \usepackage{eulervm}
+#+LaTeX_HEADER: \usepackage{inconsolata}
+#+LaTeX_HEADER: \usepackage{tikz}
+#+LaTeX_HEADER: \usetikzlibrary{calendar, shapes}
+#+LaTeX_HEADER: \setbeamertemplate{caption}[numbered]
+#+LaTeX_HEADER: \usefonttheme{serif}
+
+# ----------------------------------------------------------------------
+
+* Conteúdo
+
+** Temas
+
+   - Big Data
+   - Amostragem
+   - Inferência Bayesiana
+
+** Atividades
+
+   - Palestras
+   - Minicursos
+   - Mesa redonda
+
+* Cronograma
+
+** Disposição
+
+| Horário       | Abertura          | Atividades    | Encerramento    |
+|---------------+-------------------+---------------+-----------------|
+| 17h30 - 18h50 | (0)               | (3) Minicurso | (6) Minicurso   |
+| 19h00 - 20h15 | (1) Pal. Abertura | (4) Mesa Red. | (7) Palestra    |
+| Coffee break  | --                | --            | --              |
+| 20h45 - 22h   | (2) Palestra      | (5) Palestra  | (8) Pal. Encer. |
+
+** Prioridades
+
+   - Abertura: convidados externos
+   - Encerramento: convidados internos
+   - Períodos noturnos: atividades de maior público
+
+* Calendário
+
+# #+CAPTION: Calendário de eventos do PET Estatística para 2016.
+#+ATTR_LaTeX: :float t :options label={test} :width 0.8\textwidth
+#+NAME: calendario
+[[~/Dropbox/tikz/calendario2016.pdf]]
+
+* Convidados
+
+| Convidado             | Tema           | Domicílio         | Tipo          |
+|-----------------------+----------------+-------------------+---------------|
+| Carlos Pereira        | Bayesiana      | São Paulo-SP      | Pal. abertura |
+| Daniel Marcelino      | Ciência Polít. | Joinville-SC (??) | Palestra      |
+| Djalma Pessoa         | Amostragem     | Rio de Janeiro-RJ | Palestra      |
+| Denise Tsunoda        | Data Mining    | Curitiba-PR       | Palestra      |
+| Ricardo Galante (SAS) | Big Data       | Portugal (??)     | Minicurso     |
+| Walmes/Fernando M.    | Pesq. Rep.     | Curitiba-PR       | Minicurso     |
+| * Julio Trecenti      | Text Mining    | São Paulo-SP      |               |
+| * Eric Batista        | Sensometria    | Alfenas-MG        |               |
+| * Raquel Guimarães    | Bayesiana      | Curitiba-PR       |               |
+| * Eduardo Almeida     | Big Data       | Curitiba-PR       |               |
+
+* Custos principais
+
+  - Passagens, hospedagem, diárias e translados
+  - Material de divulgação e de escritório
+  - Coffee break
+
+* Patrocínio
+
+| Orgão                                      | Valor investido |
+|--------------------------------------------+-----------------|
+| PET Estatística (verba de custeio)         | ~R\$ 2.5 mil    |
+| Centro Acadêmico de Estatística (CAEST)    | ~R\$ 4 mil      |
+| Departamento de Estatística                | ~R\$ 8 mil      |
+| Associação Brasileira de Estatística (ABE) | ~R\$ 3 mil      |
+| CONRE                                      | próprios custos |
+
+* Equipe organizadora
+
+  - PET Estatística
+  - Docentes do Departamento de Estatística
+  - Alunos voluntários
+
+* Metas
+
+** Até final de Julho
+
+   - Confirmação do recurso financeiro disponível
+   - Confirmação dos convidados
+   - Grade de horários com os temas disponível
+   - Arte e canais para divulgação preparados
