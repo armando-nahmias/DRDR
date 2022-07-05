@@ -11,7 +11,7 @@
 # Modal de autenticação.
 
 # Deixar como `FALSE` enquanto desenvolve.
-login_screen <- FALSE
+login_screen <- TRUE
 
 # Isso pode ser consultado e validado em um BD. Lembre-se: senhas,
 # tokens e outras informações pessoais não dever ficar em código,
